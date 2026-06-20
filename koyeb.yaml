@@ -1,4 +1,4 @@
-name: ADEEL-MD
+name: RAVI-MD
 services:
   - name: adeel_md-service
     type: web
