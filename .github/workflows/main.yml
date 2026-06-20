@@ -8,7 +8,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 */6 * * *' # සෑම පැය 6කට වරක්ම run වේ
+    - cron: '0 */1 * * *' # සෑම පැය 1කට වරක්ම run වේ
 
 jobs:
   build:
