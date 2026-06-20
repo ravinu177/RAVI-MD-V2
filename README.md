@@ -1,143 +1,73 @@
-<h1 align="center">
-  <img src="https://files.catbox.moe/8pfh7i.jpg" alt="𝐀𝐃𝐄𝐄𝐋-𝐌𝐃" width="800" style="border-radius:25px;box-shadow:0 0 40px #C8860A;"/>
-</h1>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-<!-- BADGES -->
-<p align="center">
-  <a href="https://github.com/Adeel-Xtech/ADEEL-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Adeel-Xtech/ADEEL-MD?color=F5A623&style=flat-square&logo=github&cacheSeconds=3600"/></a>
-  <a href="https://github.com/Adeel-Xtech/ADEEL-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Adeel-Xtech/ADEEL-MD?color=C8860A&style=flat-square&logo=github&cacheSeconds=3600"/></a>
-  <a href="https://github.com/Adeel-Xtech/ADEEL-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Adeel-Xtech/ADEEL-MD?style=flat-square&color=8B4513&cacheSeconds=3600"/></a>
-  <a href="https://github.com/Adeel-Xtech/ADEEL-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-F5A623.svg"/></a>
-</p>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-<!-- DEVELOPER NAME -->
-<p align="center">
-  <a href="https://github.com/Adeel-Xtech" target="_blank">
-    <img src="https://img.shields.io/badge/👨‍💻_DEVELOPER-ADEEL_XTECH-F5A623?style=for-the-badge&logoColor=black&labelColor=1a1100"/>
-  </a>
-</p>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-<!-- VIEWS COUNTER -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ADEEL-MD&label=TOTAL+VIEWS&style=for-the-badge&color=F5A623&labelColor=1a1100"/>
-</p>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-<!-- CHANNEL UPDATE -->
-<p align="center">
-  <a href="https://whatsapp.com/channel/0029VbBmz4V5vKAIaWfYPT0C" target="_blank">
-    <img src="https://img.shields.io/badge/🔔_BOT_UPDATES-JOIN_CHANNEL_NOW-F5A623?style=for-the-badge&logo=whatsapp&logoColor=black&labelColor=1a1100"/>
-  </a>
-</p>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
----
-
-## 🔐 GET PAIR CODE
-
-<p align="center">
-  <a href="https://adeel-md-new-pair-c6a7630bccda.herokuapp.com/" target="_blank">
-    <img src="https://img.shields.io/badge/🔑_GET_PAIR_CODE-CLICK_HERE-F5A623?style=for-the-badge&logoColor=black&labelColor=1a1100" width="300"/>
-  </a>
-</p>
-
-<p align="center"><b>Enter your number with country code — Example: <code>923001234567</code></b></p>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
----
-
-## 🚀 DEPLOYMENT
-
+Update On : 2026.03.21`
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ADD8E6&center=true&width=1000&height=200&lines=RAVI-MD-BOT" alt="Typing SVG" /></a>
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" style="padding:15px;">
-        <a href="https://dashboard.heroku.com/new?template=https://github.com/Adeel-Xtech/ADEEL-MD" target="_blank">
-          <img src="https://img.shields.io/badge/HEROKU-DEPLOY NOW-F5A623?style=for-the-badge&logo=heroku&logoColor=black&labelColor=1a1100" width="220" height="55"/>
-        </a>
-      </td>
-      <td align="center" style="padding:15px;">
-        <a href="https://adeel-md-vps.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/VPS-DEPLOY NOW-C8860A?style=for-the-badge&logo=virtualbox&logoColor=black&labelColor=1a1100" width="220" height="55"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+	<h3>👧🏻RAVI-MD WHATSAPP BOT👧🏻</h3>
+	<img src="https://i.postimg.cc/3wqsBm2d/Whats-App-Image-2026-06-17-at-5-51-24-PM.jpg" alt="Ravi Bot Banner" width="500" style="margin-top: 10px; border-radius: 8px;"/>
 </div>
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+RAVI+MD+DEVELOPER)](https://git.io/typing-svg)
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<hr>
+<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Ravi-MD...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+Ravi-MD..." alt="Typing">
 
----
+<hr>
 
-## ⭐ FORK & STAR
+Ravi-MD බොට් යනු WhatsApp සඳහා වන පරිශීලක බොට් එකක් වන අතර එමඟින් ඔබට බොහෝ කාර්යයන් ඉටු කිරීමට ඉඩ සලසයි. මෙය බොට් යන්ත්‍රයක් යෙදවීමට ඔබට ඉඩ සලසන ව්‍යාපෘතියක් පමණි.
+       
+<h3>🌸 How To Deploy </h3>
 
-<p align="center">
-  <a href="https://github.com/Adeel-Xtech/ADEEL-MD/fork" target="_blank">
-    <img src="https://img.shields.io/badge/FORK-ADEEL%20MD-BOT?color=F5A623&style=for-the-badge&logo=stackshare&labelColor=1a1100"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Adeel-Xtech/ADEEL-MD" target="_blank">
-    <img src="https://img.shields.io/badge/⭐_STAR-THIS_REPO-C8860A?style=for-the-badge&logoColor=black&labelColor=1a1100"/>
-  </a>
-</p>
+<h5>🌸 First tap to Fork button and create new fork</h5>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<h4>🌸 Following 👇</h4>
+<hr>	
+<h3>🌸 Get Your SESSION ID 👇</h3> 
+<br>
 
----
+*🌸 Now get your inbox and copy session id*
 
-## 📺 YOUTUBE
+*🌸 If you past session id in (settings.js/SESSION_ID || "past_copy_text")*
 
-<p align="center">
-  <a href="https://youtube.com/@adeel-xtech" target="_blank">
-    <img src="https://img.shields.io/badge/▶️_YOUTUBE-@adeel--xtech-F5A623?style=for-the-badge&logo=youtube&logoColor=black&labelColor=1a1100"/>
-  </a>
-</p>
+<h3>📞 Contact Owner </h3>
+<a href="https://wa.me/94768223718">Contact me on WhatsApp: +94 76 822 3718 👧</a>
+<hr>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+***DEPLOY VIA WORKFLOWS🌸***
 
----
+<details open>
+<summary>🌸 DEPLOY IN FREE 🌸</summary>
 
-## ⚠️ DISCLAIMER
+<h5>🌸 Deploy Free Workflows 👇</h5>
 
-<p align="center">
-  <b>❌ NOT AFFILIATED WITH WHATSAPP INC.</b><br>
-  <b>⚡ MISUSE = BAN RISK</b><br>
-  <b>🛡️ OWNER NOT RESPONSIBLE FOR ANY MISUSE</b>
-</p>
+```yaml
+name: Node.js CI
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
 
----
+jobs:
+  build:
 
-<!-- STARGAZERS -->
-<p align="center">
-  <a href="https://github.com/Adeel-Xtech/ADEEL-MD/stargazers">
-    <img src="http://reporoster.com/stars/dark/Adeel-Xtech/ADEEL-MD" alt="Stargazers"/>
-  </a>
-</p>
+    runs-on: ubuntu-latest
 
-<!-- FORKERS -->
-<p align="center">
-  <a href="https://github.com/Adeel-Xtech/ADEEL-MD/network/members">
-    <img src="http://reporoster.com/forks/dark/Adeel-Xtech/ADEEL-MD" alt="Forkers"/>
-  </a>
-</p>
+    strategy:
+      matrix:
+        node-version: [20.x]
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
 
-<h2 align="center">✨ ᴛʜᴀɴᴋ ʏᴏᴜ ғᴏʀ ᴜsɪɴɢ ᴀᴅᴇᴇʟ-ᴍᴅ ✨</h2>
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
 
-<p align="center">
-  <a href="https://github.com/Adeel-Xtech/ADEEL-MD">
-    <img src="https://img.shields.io/badge/⬆️-BACK_TO_TOP-F5A623?style=for-the-badge&labelColor=1a1100"/>
-  </a>
-</p>
+    - name: Install dependencies
+      run: npm install
+
+    - name: Start application
+      run: npm start
