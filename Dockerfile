@@ -1,6 +1,6 @@
 FROM node:lts-buster
 
-RUN git clone https://github.com/Adeel-Xtech/ADEEL-MD.git /root/adeel-bot
+RUN git clone https://github.com/Adeel-Xtech/RAVI-MD.git /root/adeel-bot
 
 WORKDIR /root/adeel-bot
 
